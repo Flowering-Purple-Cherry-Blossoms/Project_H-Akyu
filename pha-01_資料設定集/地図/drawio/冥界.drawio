@@ -1,0 +1,118 @@
+<mxfile host="65bd71144e">
+    <diagram id="92xhaZqYi1lT1BiBOXHf" name="ページ1">
+        <mxGraphModel dx="4472" dy="4147" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="420" width="780" height="1230" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="白玉楼" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="760" width="250" height="860" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=default;rotation=-180;" parent="1" vertex="1">
+                    <mxGeometry x="225" y="414" width="65" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="幻想郷旅客鐵道&lt;br&gt;冥界連絡線(冥界さくら線)&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br style=&quot;font-size: 24px&quot;&gt;冥界桜広場(白玉楼前)駅" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="1200" width="430" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="endArrow=none;html=1;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint y="35" as="sourcePoint"/>
+                        <mxPoint x="1290" y="65" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="白玉楼庭園&lt;br style=&quot;font-size: 24px;&quot;&gt;一般公開領域" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="790" y="420" width="840" height="1230" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="白玉喫茶店" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="1450" y="420" width="180" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="西行妖" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=48;" parent="1" vertex="1">
+                    <mxGeometry x="8765" y="555" width="540" height="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="70" y="-150" width="220" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=none;html=1;" parent="54" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint y="60" as="sourcePoint"/>
+                        <mxPoint x="220" y="60" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=none;html=1;" parent="54" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="140" as="sourcePoint"/>
+                        <mxPoint x="220" y="60" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="" style="endArrow=none;html=1;" parent="54" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="140" y="100" as="sourcePoint"/>
+                        <mxPoint x="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="endArrow=none;html=1;" parent="54" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="60" y="80" as="sourcePoint"/>
+                        <mxPoint x="60" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="70" y="-30" width="210" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="57" vertex="1">
+                    <mxGeometry width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="10m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=23;" parent="57" vertex="1">
+                    <mxGeometry x="70" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=default;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="1385" y="130" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=default;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1432" y="520" width="35" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;冥界桜広場&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;(めいかいはなひろば)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="1630" width="1170" height="1650" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="1610" y="800.5" width="30" height="849" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=default;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="1604.5" y="60.5" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="endArrow=none;html=1;fontSize=23;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint y="105" as="sourcePoint"/>
+                        <mxPoint x="300" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=default;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1612" y="570" width="35" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="1614" y="140.5" width="31" height="279" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="endArrow=none;html=1;fontSize=23;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="185" y="420" as="sourcePoint"/>
+                        <mxPoint x="184" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="" style="endArrow=none;html=1;fontSize=23;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="140" as="sourcePoint"/>
+                        <mxPoint x="1100" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="冥界連絡線(冥界さくら線)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="483" y="53" width="295" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="白玉楼階段" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=default;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry y="230" width="200" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
