@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="92xhaZqYi1lT1BiBOXHf" name="ページ1">
-        <mxGraphModel dx="4472" dy="4147" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="9433" dy="5860" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -109,7 +109,7 @@
                 <mxCell id="62" value="冥界連絡線(冥界さくら線)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
                     <mxGeometry x="483" y="53" width="295" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="75" value="白玉楼階段" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=default;fontSize=24;" vertex="1" parent="1">
+                <mxCell id="75" value="白玉楼階段" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=default;fontSize=24;" parent="1" vertex="1">
                     <mxGeometry y="230" width="200" height="60" as="geometry"/>
                 </mxCell>
             </root>
