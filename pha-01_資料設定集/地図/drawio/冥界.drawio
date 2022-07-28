@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="92xhaZqYi1lT1BiBOXHf" name="ページ1">
-        <mxGraphModel dx="9433" dy="5860" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="7920" dy="6360" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -111,6 +111,21 @@
                 </mxCell>
                 <mxCell id="75" value="白玉楼階段" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=default;fontSize=24;" parent="1" vertex="1">
                     <mxGeometry y="230" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="63">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1630" y="-5" as="sourcePoint"/>
+                        <mxPoint x="1630" y="-825" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="" style="endArrow=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="68">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1620" y="2475" as="sourcePoint"/>
+                        <mxPoint x="1870" y="1930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="桜林" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=128;" vertex="1" parent="1">
+                    <mxGeometry x="5630" y="705" width="415" height="262.5" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
